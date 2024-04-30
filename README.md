@@ -15,4 +15,4 @@ Therefore we need to change measurement scale changing the R1 value to be more s
 ## Solution
 This can be made using 5 different R1 values and therefore 5 different measurement scale.
 
-![screenshot](images/Schema Arduino Ohmmetro scala automatica.PNG)<br>
+![screenshot](images/Schema_ArdOhmmetro_scala_auto.PNG)<br>
